@@ -29,7 +29,7 @@
     "schema-dts": "^1.1.5"
   },
   "devDependencies": {
-    "@content-collections/core": "^0.10.0",
+    "@content-collections/core": "^0.14.3",
     "@content-collections/next": "^0.2.6",
     "@tailwindcss/postcss": "^4.1.11",
     "@types/mdx": "^2.0.13",
